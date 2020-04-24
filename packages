@@ -1,0 +1,14 @@
+Package: com.ticktyson.istec
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: basheer1414@gmail.com
+Depends: Sharpshooter
+Filename: com.ticktyson.istec_2.0.2.deb
+Size: 3,498,696
+MD5sum: F1B36DC2EB949E47F926DBB4A776EA43
+SHA1: A6F2846D2270890215A0F85ED7A1BDE7EAC47F43
+SHA256: 8182B942C73F514FB2FB3422A6A6496BCAC0BDB7D182B8A9B4C7F26D9033BF91
+Section: Tweaks
+Description: <description>
+Author: Basheer 
+Name: Sharpshooter
